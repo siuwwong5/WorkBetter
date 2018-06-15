@@ -21,7 +21,7 @@ build:
        
 functional-test:
   box: 
-    id: wcr.io/wonghe3/mfrontpage
+    id: siuwwong5/emfrontpage
     username: $DOCKER_USER
     password: $DOCKER_PASSWORD
     tag: $WERCKER_GIT_COMMIT
